@@ -1,5 +1,5 @@
 # Hotel-booking-Data-analysis-Dashboard-project(Using-MS-Excel)
-##Project Objective
+## Project Objective
 Analyze hotel booking trends and customer behavior.
 Identify factors affecting booking cancellations.
 Compare performance between different hotel types.
