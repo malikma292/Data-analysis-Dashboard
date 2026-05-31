@@ -8,8 +8,8 @@ Generate actionable insights through visual dashboards.
 Demonstrate Excel-based data analysis and reporting skills.
 ## Dataset used
 - <a href= "https://github.com/malikma292/Data-analysis-Dashboard/blob/main/Project1.xlsx">Dataset</a>
-## Dataset Information
-# The dataset contains hotel booking records and includes various attributes such as:
+# Dataset Information
+## The dataset contains hotel booking records and includes various attributes such as:
 Hotel Type
 Booking Date
 Arrival Year
